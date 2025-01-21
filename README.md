@@ -1,5 +1,7 @@
 # AmneziaWG Packages for offical GL.iNET MT-6000 router firmware
 
+===================== ALL CREDIT TO xa0c-net / I just forked his repo and put the MT-6000 config file provided by GL.iNET =====================
+
 Official op24 GL.iNET firmware could be downloaded [here](https://dl.gl-inet.com/router/mt6000/open)
 
 Installation instructions (in Russian) coud be found [here](https://github.com/openwrt-xiaomi/awg-openwrt/wiki/AmneziaWG-installing#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-amneziawg-%D0%BD%D0%B0-openwrt-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B5)
